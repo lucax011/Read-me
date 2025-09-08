@@ -1,8 +1,4 @@
 # 👋 Olá, eu sou o Lucas!
-
-[![Profile views](https://komarev.com/ghpvc/?username=lucax011&color=blue)](https://github.com/lucax011)
-[![GitHub followers](https://img.shields.io/github/followers/lucax011?label=Follow&style=social)](https://github.com/lucax011)
-
 ## 🚀 Sobre mim
 - 🎓 Bacharelado em **Sistemas de Informação** (FIAP – 4º ano).
 - 💼 **Analista de Sistemas** no Hospital Israelita Albert Einstein.  
